@@ -34,3 +34,5 @@ print(f'{4:>4}{frequency4:>13}')
 print(f'{5:>4}{frequency5:>13}')
 print(f'{6:>4}{frequency6:>13}')
 # what is the theoretical value of each frequency?
+#can you guess?
+
